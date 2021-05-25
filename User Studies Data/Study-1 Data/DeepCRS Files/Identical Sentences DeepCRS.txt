@@ -1,0 +1,132 @@
+Total similar sentences are  1800 
+Generated dialogue sentence is...  have you seen movieid
+ -------------------------------- 
+Total similar sentences are  103 
+Generated dialogue sentence is...  have you seen it
+ -------------------------------- 
+Total similar sentences are  21 
+Generated dialogue sentence is...  i hope you enjoy them
+ -------------------------------- 
+Total similar sentences are  114 
+Generated dialogue sentence is...  you are welcome
+ -------------------------------- 
+Total similar sentences are  3721 
+Generated dialogue sentence is...  hello
+ -------------------------------- 
+Total similar sentences are  428 
+Generated dialogue sentence is...  what kind of movies do you like
+ -------------------------------- 
+Total similar sentences are  129 
+Generated dialogue sentence is...  me too
+ -------------------------------- 
+Total similar sentences are  2750 
+Generated dialogue sentence is...  bye
+ -------------------------------- 
+Total similar sentences are  174 
+Generated dialogue sentence is...  i have n't seen that one
+ -------------------------------- 
+Total similar sentences are  856 
+Generated dialogue sentence is...  how about movieid
+ -------------------------------- 
+Total similar sentences are  13 
+Generated dialogue sentence is...  it 's pretty good
+ -------------------------------- 
+Total similar sentences are  9 
+Generated dialogue sentence is...  have you seen any good movies lately
+ -------------------------------- 
+Total similar sentences are  56 
+Generated dialogue sentence is...  have you seen movieid yet
+ -------------------------------- 
+Total similar sentences are  20 
+Generated dialogue sentence is...  that was a good movie
+ -------------------------------- 
+Total similar sentences are  2914 
+Generated dialogue sentence is...  hi
+ -------------------------------- 
+Total similar sentences are  31 
+Generated dialogue sentence is...  hi there  what kind of movies do you like
+ -------------------------------- 
+Total similar sentences are  19 
+Generated dialogue sentence is...  you should check it out
+ -------------------------------- 
+Total similar sentences are  8 
+Generated dialogue sentence is...  i am good  how are you
+ -------------------------------- 
+Total similar sentences are  29 
+Generated dialogue sentence is...  you are very welcome
+ -------------------------------- 
+Total similar sentences are  8 
+Generated dialogue sentence is...  you should watch it
+ -------------------------------- 
+Total similar sentences are  10 
+Generated dialogue sentence is...  i hope you like them
+ -------------------------------- 
+Total similar sentences are  19 
+Generated dialogue sentence is...  you should check it out
+ -------------------------------- 
+Total similar sentences are  5 
+Generated dialogue sentence is...  you 're welcome  have a good one
+ -------------------------------- 
+Total similar sentences are  511 
+Generated dialogue sentence is...  have a great day
+ -------------------------------- 
+Total similar sentences are  489 
+Generated dialogue sentence is...  awesome  have a good one
+ -------------------------------- 
+Total similar sentences are  85 
+Generated dialogue sentence is...  hi what kind of movies do you like
+ -------------------------------- 
+Total similar sentences are  195 
+Generated dialogue sentence is...  you 're welcome
+ -------------------------------- 
+Total similar sentences are  28 
+Generated dialogue sentence is...  i hope you enjoy it
+ -------------------------------- 
+Total similar sentences are  72 
+Generated dialogue sentence is...  hello  what kind of movies do you like
+ -------------------------------- 
+Total similar sentences are  129 
+Generated dialogue sentence is...  me too
+ -------------------------------- 
+Total similar sentences are  355 
+Generated dialogue sentence is...  have a good day
+ -------------------------------- 
+Total similar sentences are  13 
+Generated dialogue sentence is...  i have n't seen that one  i 'll have to check it out
+ -------------------------------- 
+Total similar sentences are  497 
+Generated dialogue sentence is...  what about movieid
+ -------------------------------- 
+Total similar sentences are  1158 
+Generated dialogue sentence is...  bye!
+ -------------------------------- 
+Total similar sentences are  524 
+Generated dialogue sentence is...  hi there
+ -------------------------------- 
+Total similar sentences are  468 
+Generated dialogue sentence is...  you too
+ -------------------------------- 
+Total similar sentences are  31 
+Generated dialogue sentence is...  no problem  have a good day
+ -------------------------------- 
+Total similar sentences are  17 
+Generated dialogue sentence is...  you 're welcome  have a good day
+ --------------------------------
+Total similar sentences are  79 
+Generated dialogue sentence is...  i have n't seen it but i heard it was good
+ -------------------------------- 
+Total similar sentences are  37 
+Generated dialogue sentence is...  that was a good one
+ -------------------------------- 
+Total similar sentences are  2 
+Generated dialogue sentence is...  i think you would like it
+ -------------------------------- 
+Total similar sentences are  29 
+Generated dialogue sentence is...  i am good
+ -------------------------------- 
+Total similar sentences are  64 
+Generated dialogue sentence is...  yes  it is
+ -------------------------------- 
+Total similar sentences are  28 
+Generated dialogue sentence is...  i hope you enjoy it
+ -------------------------------- 

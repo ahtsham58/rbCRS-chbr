@@ -1,0 +1,853 @@
+CONVERSATION:1
+SEEKER: <s> Hi I am looking for a movie like @111776</s> 
+GROUND TRUTH: <s> You should watch @151656</s> 
+SEEKER: <s> Is that a great one? I have never seen it. I have seen @192131 I mean @134643</s> 
+GROUND TRUTH: <s> Yes @151656 is very funny and so is @94688</s> 
+SEEKER: <s> It sounds like I need to check them out</s> 
+GROUND TRUTH: <s> yes you will enjoy them</s> 
+SEEKER: <s> I appreciate your time. I will need to check those out. Are there any others you would recommend?</s> 
+GROUND TRUTH: <s> yes @101794</s> 
+SEEKER: <s> Thank you i will watch that too</s> 
+GROUND TRUTH: <s> and also @91481</s> 
+SEEKER: <s> Thanks for the suggestions.</s> 
+GROUND TRUTH: <s> you are welcome and also @124771</s> 
+SEEKER: <s> thanks goodbye</s> 
+CONVERSATION:2
+GROUND TRUTH: <s> Hello!</s> 
+SEEKER: <s> Hello!</s> 
+GROUND TRUTH: <s> What kind of movies do you like?</s> 
+SEEKER: <s> I am looking for a movie recommendation.   When I was younger I really enjoyed the @77161</s> 
+GROUND TRUTH: <s> Oh, you like scary movies? I recently watched @204334</s> 
+SEEKER: <s> I also enjoyed watching @132562</s> 
+GROUND TRUTH: <s> It was really good for a new &quot;scary movie&quot;</s> 
+SEEKER: <s> I do enjoy some of the newer horror movies that I have seen as well.</s> 
+GROUND TRUTH: <s> I heard that @205430 is good. It is still in theaters though.</s> 
+SEEKER: <s> I really liked the movie @125431</s> 
+GROUND TRUTH: <s> Me, too! It was really creepy, but I thought it was good!</s> 
+SEEKER: <s> Or @118338 I saw while in theaters, this was a very good movie.  It had me on the edge of my seat for the whole show.</s> 
+GROUND TRUTH: <s> I'm not sure if I saw that one, I'll have to check into it. Sounds familiar, but not sure. Thank you for your suggestions!</s> 
+SEEKER: <s> Are there any comedies that you would suggest?</s> 
+GROUND TRUTH: <s> Sure! I like comedies a lot. I like movies like @175203 and @111776 , but I also like @187061 and @157765 .</s> 
+SEEKER: <s> Wonderful! Thank you so much I think I am ready for movie night now.</s> 
+GROUND TRUTH: <s> No problem! Thank you, too! :)</s> 
+CONVERSATION:3
+GROUND TRUTH: <s> Tell me what would you like to watch?</s> 
+SEEKER: <s> @138780</s> 
+GROUND TRUTH: <s> Did you watch @205163 ? Or @162943 ? i really liked it</s> 
+SEEKER: <s> No , I think I would like to watch @138780 It's funny</s> 
+GROUND TRUTH: <s> But You already know what you want to watch You should tell me what kind of movies you like Did you watch @78874 ? Do you like scary movies? Did you watch @187028 ?</s> 
+SEEKER: <s> Yes I like Adam sandler. @90253 is another good movie by him I did not see the movie @187028</s> 
+GROUND TRUTH: <s> Yes i think so i hope i have helped good bye</s> 
+CONVERSATION:4
+SEEKER: <s> i would like to watch any movie Tell me any movie Like @205163</s> 
+GROUND TRUTH: <s> Have you seen @78418</s> 
+SEEKER: <s> i really enjoyed that one Yes and i liked it Which another one would you recommend me?</s> 
+GROUND TRUTH: <s> Do you like scary Have you seen @187028</s> 
+SEEKER: <s> i watched @114756  and a liked it</s> 
+GROUND TRUTH: <s> Or @156724</s> 
+SEEKER: <s> No, i have not seen @187028 But i'll try Thank you for helping me Good bye</s> 
+GROUND TRUTH: <s> If you like superhero @152789  is also a very good one Goodbye</s> 
+CONVERSATION:5
+GROUND TRUTH: <s> What kind of movies do you like have you seen @205163 ? or @99896</s> 
+SEEKER: <s> Yes and i liked them Those are awesome I like that kind of movies</s> 
+GROUND TRUTH: <s> @154513</s> 
+SEEKER: <s> i also watched @99583</s> 
+GROUND TRUTH: <s> those are good movies as well</s> 
+SEEKER: <s> No, i have not watched that one i think i will try that one</s> 
+GROUND TRUTH: <s> @100821 was another good xmen movie okay thanks!</s> 
+SEEKER: <s> Oooh, so there are many thanks Good bye</s> 
+CONVERSATION:6
+GROUND TRUTH: <s> Tell me what kind of movies do you like?</s> 
+SEEKER: <s> I like scary movies</s> 
+GROUND TRUTH: <s> did you watch @205163</s> 
+SEEKER: <s> i did not but i want to</s> 
+GROUND TRUTH: <s> So, did you watch @187028 ?</s> 
+SEEKER: <s> have you seen @187028</s> 
+GROUND TRUTH: <s> And @204794 ?</s> 
+SEEKER: <s> no but i like the old one yes i like that versio</s> 
+GROUND TRUTH: <s> Yes i have, that's why i told you</s> 
+SEEKER: <s> yes i like that version</s> 
+GROUND TRUTH: <s> and did you watch @76012 ? That is very scary</s> 
+SEEKER: <s> It is very scary ank you for the suggestions goodbye</s> 
+GROUND TRUTH: <s> i hope i have helped bye good bye</s> 
+CONVERSATION:7
+SEEKER: <s> I like to watch scary movies</s> 
+GROUND TRUTH: <s> tell me what kind of movie do you like? Did you watch @187028 ? And @204794 ?</s> 
+SEEKER: <s> I have seen the old one</s> 
+GROUND TRUTH: <s> Did you watch @76012 ?</s> 
+SEEKER: <s> i have not seen the new one i do like the excorcist</s> 
+GROUND TRUTH: <s> Ok, you should watch the new one Even though i would rather the old one And did you watch @150640 ? i hope i have helped</s> 
+SEEKER: <s> no I have not but it sounds scary! thank you for the suggestions!</s> 
+GROUND TRUTH: <s> You should try them your welcome good bye</s> 
+SEEKER: <s> bye!</s> 
+CONVERSATION:8
+GROUND TRUTH: <s> Tell me what kind of movies do you like?</s> 
+SEEKER: <s> I love to watch funny movies</s> 
+GROUND TRUTH: <s> Did you watch @78874 ?</s> 
+SEEKER: <s> yes, i love adam sandler</s> 
+GROUND TRUTH: <s> and @79851 ? Yes he is very funny Do you not like scary movies?</s> 
+SEEKER: <s> just watched the mask last night! there is a new one @195759 i like some scary movie</s> 
+GROUND TRUTH: <s> And did you watch @108426 ? Hahaha you enjoy those kind of movies!! i hope i have helped</s> 
+SEEKER: <s> That one is the best! thanks for the help goodbye!</s> 
+GROUND TRUTH: <s> good bye</s> 
+CONVERSATION:9
+GROUND TRUTH: <s> Hello me what kind of movies do you like?</s> 
+SEEKER: <s> I like all movies, what are your suggestions?</s> 
+GROUND TRUTH: <s> Did you watch @205163 ?</s> 
+SEEKER: <s> No heard it is very good</s> 
+GROUND TRUTH: <s> I can tell you to watch @78874 Yes it is really good</s> 
+SEEKER: <s> I love Adam Sandler movies</s> 
+GROUND TRUTH: <s> You can watch too if you want to @76012 But that is a scary one i would recommend you @99583</s> 
+SEEKER: <s> Sounds scary but will have to check it out! These are great suggestions</s> 
+GROUND TRUTH: <s> And also @165531</s> 
+SEEKER: <s> Thank you!</s> 
+GROUND TRUTH: <s> Yes I hope i have helped Good bye Enjoy them</s> 
+SEEKER: <s> Goodbye</s> 
+CONVERSATION:10
+GROUND TRUTH: <s> What kind of movies do you like?</s> 
+SEEKER: <s> Hello i open to any movie</s> 
+GROUND TRUTH: <s> have you seen @205163</s> 
+SEEKER: <s> yes i liked that one actually i want to watch it again i also watch @99583</s> 
+GROUND TRUTH: <s> or the @136632  was a goid one ot</s> 
+SEEKER: <s> i watched @165531 the old one i have not seen the new one</s> 
+GROUND TRUTH: <s> if you like scary movies @187028 is pretty scary</s> 
+SEEKER: <s> but i will try Yeah! i liked that one too thank you for helping me i will have a good evening good bye</s> 
+CONVERSATION:11
+GROUND TRUTH: <s> hi</s> 
+SEEKER: <s> hello i am open to any movie Whatever you recommend i watched @205163 and i liked it i also liked @78874 i like movies made by Adan Sandler As Marvel movies too</s> 
+GROUND TRUTH: <s> My fav movie is @183056</s> 
+SEEKER: <s> Do you mean @183056 ? i have not seen it but i will try i watched @99583 and i really liked</s> 
+GROUND TRUTH: <s> @141566 was good</s> 
+SEEKER: <s> Yeah i enjoyed it thank you for helping me good bye</s> 
+GROUND TRUTH: <s> Ok</s> 
+CONVERSATION:12
+SEEKER: <s> Hello</s> 
+GROUND TRUTH: <s> hi</s> 
+SEEKER: <s> i'm open to any movie What would you recommend me? i liked @205163</s> 
+GROUND TRUTH: <s> @183056 is my fav</s> 
+SEEKER: <s> i also like scary movies i watched @183056</s> 
+GROUND TRUTH: <s> how about @103896</s> 
+SEEKER: <s> i also watched @187028 NO, i have not seen that one i guess i would try that one tomorrow i also watched @204794  the old one Which another one would you recommend me?</s> 
+GROUND TRUTH: <s> its by rob Zombie</s> 
+SEEKER: <s> A funny one Like @78874  by Adan Sandler</s> 
+GROUND TRUTH: <s> @99910</s> 
+SEEKER: <s> I could enjoyed so much No, i have not watched that one Thank you for helping me Good bye</s> 
+GROUND TRUTH: <s> you're the same person</s> 
+SEEKER: <s> Good bye</s> 
+GROUND TRUTH: <s> lol</s> 
+CONVERSATION:13
+SEEKER: <s> Hello i would like to see any movie yo recommend me i am open to any movie</s> 
+GROUND TRUTH: <s> Are you looking for something older or newer?</s> 
+SEEKER: <s> i just watched @205163  and i liked it Whatever I also like old movies Like @76012 i can not forget that  movie i like scary movies too like @204794 the old one i have not seen @187028 the new one i've heard is very good i do not know</s> 
+GROUND TRUTH: <s> How about the
+The sixth Battalion?</s> 
+SEEKER: <s> do you mean @177921 ? i have not seen it but it sounds awesome Well, thank you for helping me i'll try that one</s> 
+GROUND TRUTH: <s> Yes that is the movie I suggest.</s> 
+SEEKER: <s> good bye remember to say good bye</s> 
+GROUND TRUTH: <s> Goodbye</s> 
+SEEKER: <s> help me with another conversation ;(</s> 
+CONVERSATION:14
+SEEKER: <s> I like scary movies, can you make a suggestion?</s> 
+GROUND TRUTH: <s> Have you ever seen @185171</s> 
+SEEKER: <s> not yet is it good</s> 
+GROUND TRUTH: <s> Yes very much so! It is about paranormal activities but it was definitely scary</s> 
+SEEKER: <s> Can you make other paranoramal suggestions or slasher films like @150352 are good to</s> 
+GROUND TRUTH: <s> I wasn't a big fan of @127673 have you seen that at all?</s> 
+SEEKER: <s> oh yes and the sequel @84363 These are good suggestions though thank you!</s> 
+GROUND TRUTH: <s> absolutely, enjoy!</s> 
+SEEKER: <s> good bye</s> 
+CONVERSATION:15
+SEEKER: <s> hello</s> 
+GROUND TRUTH: <s> Hi, I'm looking for a good docutmentary</s> 
+SEEKER: <s> i'm open to any movie</s> 
+GROUND TRUTH: <s> any suggestions?</s> 
+SEEKER: <s> Man, right now i'm the seeker the person who is looking for movies so that means you are the person who recommend</s> 
+GROUND TRUTH: <s> my apologies</s> 
+SEEKER: <s> you can read that onto the chat Don't worry man we are here to help So i'm looking for any movies i watched @78874 and i liked it</s> 
+GROUND TRUTH: <s> Have you seen @205163</s> 
+SEEKER: <s> I like movies made by Adan Sandler Yes and i liked it! i also watched @99583 i like those kind of movies i watched @136632 and it was awesome</s> 
+GROUND TRUTH: <s> My favorite Adam Sandler movie is definitely @181301</s> 
+SEEKER: <s> Remember to say good bye at the end of this chat And i wait for you in another chat ;) Thank you very much</s> 
+GROUND TRUTH: <s> thank you, good bye</s> 
+SEEKER: <s> Good bye</s> 
+CONVERSATION:16
+GROUND TRUTH: <s> hello</s> 
+SEEKER: <s> Hello, I am looking for some movie recommendations.  Do you have any Horror Movies that you could suggest for me?</s> 
+GROUND TRUTH: <s> I do! have you ever seen @185171 ?</s> 
+SEEKER: <s> I have seen @185171  I very much enjoyed this movie.  When I was younger I liked movies like @130591 .</s> 
+GROUND TRUTH: <s> I liked that one too!</s> 
+SEEKER: <s> I also liked to watch the @77161  Series.</s> 
+GROUND TRUTH: <s> I loved that as well mainly because Johnny Depp is in it</s> 
+SEEKER: <s> I love Johnny Depp! So handsome, such a great actor. I love johnny Depp in @159090 .</s> 
+GROUND TRUTH: <s> Me too one of my favorites from him is @85082</s> 
+SEEKER: <s> I am not sure if I have ever seen that movie, I am going to have to check that one out.</s> 
+GROUND TRUTH: <s> It is very creepy and dark but full of suspense</s> 
+SEEKER: <s> Thinking of Johnny Depp have you ever seen the movie @120349 ?  It is a story By the author Steven King.</s> 
+GROUND TRUTH: <s> I own it! I actually have a poster still on my door from it, it was really good I love a good Steven King movie</s> 
+SEEKER: <s> His performance in that movie is phenomenal. I am a huge fan of Steven King.  His novels help foster my love of reading and story telling. Well thank you for talking with me.  I think I am ready for my movie night now.</s> 
+GROUND TRUTH: <s> excellent! I hope you enjoy good bye</s> 
+SEEKER: <s> good bye.</s> 
+CONVERSATION:17
+SEEKER: <s> Hello, I am looking for some movie suggestions.  What would you suggest?</s> 
+GROUND TRUTH: <s> Are you looking for movies currently in theatres?  I like @205430.</s> 
+SEEKER: <s> I want to have a movie night with friends.  I have not seen @205430 but I think it looks really good.  I do love scary movies. One of the best scary movies I have seen in recent years is @118338 , have you seen this one?</s> 
+GROUND TRUTH: <s> If you like recent scary movies, I might suggest @144779. I have not seen @118338 @118338 is a good suggestion for me</s> 
+SEEKER: <s> I have seen @144779  it was very good. I also very much enjoy watching an old movie like @132562 and then watching the remake @158950 . It is very interesting to see what changes and what does not, to see the difference that all these years makes in the style of the movie.</s> 
+GROUND TRUTH: <s> I enjoyed @173191 but have not seen @158950 or @132562.</s> 
+SEEKER: <s> How about a recommendation for a comedy.  After all these scary movies we will need something to lighten the mood at the end of the evening. Maybe something classic like @177915</s> 
+GROUND TRUTH: <s> I like @76279, the original British comedy.</s> 
+SEEKER: <s> Oh i have never seen that I will have to check it out.  Well I think I am ready for my movie night now.  Thank you so much.</s> 
+GROUND TRUTH: <s> Thanks, enjoy!</s> 
+SEEKER: <s> Good Bye</s> 
+CONVERSATION:18
+GROUND TRUTH: <s> Hello, what type of movies do you like?</s> 
+SEEKER: <s> whatever i just watched @205163 i really liked</s> 
+GROUND TRUTH: <s> I have not seen @205163</s> 
+SEEKER: <s> i also watched @187028 the new one i have not seen the old one @204794</s> 
+GROUND TRUTH: <s> Have you seen @105589?  I would recommend it.</s> 
+SEEKER: <s> i also liked @78874 no, i have not seen i think i will try that one thank you for helping me</s> 
+GROUND TRUTH: <s> I saw @187028.  I like @78874</s> 
+SEEKER: <s> good bye i'll see you in another chat ;)</s> 
+GROUND TRUTH: <s> Thanks!</s> 
+CONVERSATION:19
+GROUND TRUTH: <s> hello</s> 
+SEEKER: <s> Hi there! I'm looking for bad campy movies like... me and my boyfriend are having a competition Have you seen @139961 i liked that one but I need something worse haha</s> 
+GROUND TRUTH: <s> a classic that I recommend is the movie the graduate, the soudtrank I liked a lot 1967</s> 
+SEEKER: <s> That sounds good. I could go with a classic. Have you seen @151599 I'm looking for a horrible movie. cheesy horror</s> 
+GROUND TRUTH: <s> Tuesday 13, you like?</s> 
+SEEKER: <s> Of tuesday the 13th? haha no, is it horrible? I'll have to look it up Oh did you mean @130591 ? yeah i like it but i need something kinda not so scary just funny too you know</s> 
+GROUND TRUTH: <s> scary movie is funny, I liked it a lot</s> 
+SEEKER: <s> I think I'll go with @80235 he cant fight me on that one. And it has megan fox in it so he cant complain I loved @78186 !! thank you I'll go with that one! so hilarious</s> 
+GROUND TRUTH: <s> There are six movies, they are all fun</s> 
+SEEKER: <s> have a good day! and thanks again awesome i will check them out. thank you again have a good day thanks again for your help! goodbye</s> 
+CONVERSATION:20
+SEEKER: <s> Hello, have you seen the new IT movie?</s> 
+GROUND TRUTH: <s> I have! I loved it.</s> 
+SEEKER: <s> How about the Sixth Sense? I know it is older but it was good?</s> 
+GROUND TRUTH: <s> I feel like it was so much more intense than  @204794</s> 
+SEEKER: <s> I agree it was more intense then It(1988)</s> 
+GROUND TRUTH: <s> I think I've seen the @170119  but its been ages ago</s> 
+SEEKER: <s> What kind of movie are you looking for now?</s> 
+GROUND TRUTH: <s> I just finished seeing @204974  and loved the action. But I'm all caught up on the marvel movies now.</s> 
+SEEKER: <s> Might I suggest you go back and watch the movie Sixth Sense since you cannot remember if you saw it?</s> 
+GROUND TRUTH: <s> I think that would be an excellent idea, Bruce Willis is one of my favorite actors. Honestly, thinking about it now I'm pretty sure I was thinking of @112346  earlier.</s> 
+SEEKER: <s> I love Bruce Willis too and can watch the movie over and over.</s> 
+GROUND TRUTH: <s> Right!? I can't tell you how many times I've rewatched @161313  and still enjoy it just a much.</s> 
+SEEKER: <s> Oh yes, one of my favorites. I hope you enjoy Sixth Sense (1999) even if you have seen it.</s> 
+GROUND TRUTH: <s> Thank you for the recommendation, I'll definitely have to watch it this week!</s> 
+SEEKER: <s> Great. Good bye my friend.</s> 
+CONVERSATION:21
+GROUND TRUTH: <s> Hello, I heard that you are looking for a movie recommendation.  What sort of movies are you into?</s> 
+SEEKER: <s> I like comedies and movies that have really cool cinemotography I like @125118 @181952 And i watched @160007 last night and it was pretty good</s> 
+GROUND TRUTH: <s> I have never seen either of those movies.  do you like comedies like @90253  or something like @86168.</s> 
+SEEKER: <s> Yeah i like @90253 adam sandler is so silly i like absurdist humor</s> 
+GROUND TRUTH: <s> Yes Adam Sandler has made so many great movies, I even like his newer ones like @78874 and @198562 .</s> 
+SEEKER: <s> @85159 is my favorite</s> 
+GROUND TRUTH: <s> I love the movie @85159  an all time favorite Is there anything else I could assist with today?</s> 
+SEEKER: <s> nah it was nice talking to you!</s> 
+GROUND TRUTH: <s> Thank you! Have a great day Good bye.</s> 
+CONVERSATION:22
+SEEKER: <s> Hello</s> 
+GROUND TRUTH: <s> hello!</s> 
+SEEKER: <s> i'm looking for any movie i just watched @205163  and i really liked i also watched @187028  it was a little scary</s> 
+GROUND TRUTH: <s> i loved that movie actually haha.</s> 
+SEEKER: <s> but i think the old one @204794 was better so what would you recommend me?</s> 
+GROUND TRUTH: <s> I wanted it in theaters and wow. I just wanted @204334 haha thats as scary as i can go</s> 
+SEEKER: <s> i have not seen it i think i will try</s> 
+GROUND TRUTH: <s> @128188 is an awesome movie as well. I love boxing movies</s> 
+SEEKER: <s> i also watched @78874 and it was interesting i like too! thank you for helping me remember to say good bye good bye! ;) i see you later in another chat or i hope</s> 
+GROUND TRUTH: <s> Bye!</s> 
+CONVERSATION:23
+SEEKER: <s> Hello can you tell me what kind of movies you like best?</s> 
+GROUND TRUTH: <s> hello i'm the seeker now you should recommend me any movie I just watched @205163  and i liked</s> 
+SEEKER: <s> I could recommend @84001 .</s> 
+GROUND TRUTH: <s> That's great</s> 
+SEEKER: <s> I also enjoy classic horror movies like @77161  and @161756</s> 
+GROUND TRUTH: <s> i have not seen them but i could try them those sounds very interesting i just watched @187028  the new one Are those Scary movies too?</s> 
+SEEKER: <s> I love @187028  and @204794 . Yes they are some classic scary movies.  I haven't watched it yet myself but I have heard great things about @205430 .</s> 
+GROUND TRUTH: <s> Thank you for helping me Remember to say good bye after this You should try them ;) good bye</s> 
+SEEKER: <s> You're very welcome have a great day.  Good bye</s> 
+CONVERSATION:24
+GROUND TRUTH: <s> Tell me what would you like to watch? i just watched @205163 Have you seen it? or do you like Scary movies? have you ever seen @78874 ?</s> 
+SEEKER: <s> I like a lot of different movies.  Thinking about some comedies something like @181301</s> 
+GROUND TRUTH: <s> have you ever seen @108426 ? that's is very interesting and funny you should try them</s> 
+SEEKER: <s> Yes I have seen that Movie it is very funny</s> 
+GROUND TRUTH: <s> i also would recommend you @163739 There are many of those movies any of them are really awesome</s> 
+SEEKER: <s> I also like @178472 and @90253 .</s> 
+GROUND TRUTH: <s> @78186 is one of the best if funny movies you are talking about Well, enjoy your evening good bye</s> 
+SEEKER: <s> These sound like some great movies to look into thank you, good bye.</s> 
+CONVERSATION:25
+GROUND TRUTH: <s> hello</s> 
+SEEKER: <s> I am looking for a comedy movie.</s> 
+GROUND TRUTH: <s> Tell what kind of movie would you like to watch? did you watch @78874 ? i could recommend you @134643</s> 
+SEEKER: <s> yes, I loved it. American</s> 
+GROUND TRUTH: <s> i could recommend you too @163739 There are many of those movies</s> 
+SEEKER: <s> Im not sure if i saw american pie 2.</s> 
+GROUND TRUTH: <s> Have you ever seen @78186 ? Well, you should try them</s> 
+SEEKER: <s> scary movie was good.  The first one atleast</s> 
+GROUND TRUTH: <s> You should watch @108426 i hope i have helped you</s> 
+SEEKER: <s> you did thanks</s> 
+GROUND TRUTH: <s> Have a good evening and enjoy those movies good bye</s> 
+CONVERSATION:26
+SEEKER: <s> Hello i'm open to any movie</s> 
+GROUND TRUTH: <s> I like old school horror movies like @77161 have you ever seen this one?</s> 
+SEEKER: <s> What would you recommend me? i have not seen them! i think i should try those movies</s> 
+GROUND TRUTH: <s> The second one @161756 is great too.</s> 
+SEEKER: <s> i watched @76012 and it scared me</s> 
+GROUND TRUTH: <s> I love that movie.</s> 
+SEEKER: <s> so are there two movies? haha, i would not say the same i enjoyed @204794  the old one i think the old one is better than the new one</s> 
+GROUND TRUTH: <s> There are more than two, @141688 , @110510 , and @88275 .</s> 
+SEEKER: <s> Ooh, i will try them thank you for helping me good bye</s> 
+GROUND TRUTH: <s> I loved @204794  and I thought the new one @187028  was ok thank you, good bye.</s> 
+CONVERSATION:27
+SEEKER: <s> hello i'm open to any movie</s> 
+GROUND TRUTH: <s> Hi there.  I would like to suggest some comedies you could watch, have you seen @157394 ?</s> 
+SEEKER: <s> i just watched @205163 and i liked it i have not seen it but i watched @163739  and it was great i also watched @134643</s> 
+GROUND TRUTH: <s> It has Adam Sandler in it.  I like so many of his movies like @181301 and @178472 and @85159</s> 
+SEEKER: <s> So have you watched @78874 ?</s> 
+GROUND TRUTH: <s> I didn't think the @134643 movies were that great I always felt like the were super overrated.</s> 
+SEEKER: <s> he also made a movie where he is gay but i don't remember the name</s> 
+GROUND TRUTH: <s> I've seen @78874  but I don't like it as much as his older movies.</s> 
+SEEKER: <s> i think so, his old movies were better thank you for helping me good bye i hope i'll see you again in another chat</s> 
+GROUND TRUTH: <s> You're welcome.  Have a great day, good bye.</s> 
+CONVERSATION:28
+SEEKER: <s> Hello what kind of movies would you recommend me to watched with my friends?</s> 
+GROUND TRUTH: <s> Hello, there is a movie that I have always enjoyed and I'm not sure what you would call the genre but the movie is @84001  have you ever seen this one?</s> 
+SEEKER: <s> i think funny movies would be great Yes i watched it! it was really great!</s> 
+GROUND TRUTH: <s> Well that one definitely isn't funny.  How about @86168  or another classic @177915</s> 
+SEEKER: <s> i watched @122552 i liked very much!</s> 
+GROUND TRUTH: <s> I like that movie too.</s> 
+SEEKER: <s> i have not seen that mive movie* sorry</s> 
+GROUND TRUTH: <s> So funny and just ridiculous.</s> 
+SEEKER: <s> yes and there is the another one @136087 i think i will try those movies</s> 
+GROUND TRUTH: <s> I really love Chris Farley's movies @170060 is an all time favorite</s> 
+SEEKER: <s> thanks! Good bye i will try that one too!</s> 
+GROUND TRUTH: <s> For sure you will definitely enjoy them and get a lot of laughs. Thank you, good bye/</s> 
+CONVERSATION:29
+GROUND TRUTH: <s> Hello</s> 
+SEEKER: <s> Hello</s> 
+GROUND TRUTH: <s> Tell me what kind of movies would you like to watch? i just watched @205163</s> 
+SEEKER: <s> I like action movies like @183121</s> 
+GROUND TRUTH: <s> I really enjoyed it! do you like marvel movies?</s> 
+SEEKER: <s> I haven't seen that.  It's been a while since I've seen a brand new movie</s> 
+GROUND TRUTH: <s> As @203983 ?</s> 
+SEEKER: <s> I've never seen that one but I will have to check it out.</s> 
+GROUND TRUTH: <s> do you like that kind of movies? what about @136632 ?</s> 
+SEEKER: <s> I also loved @148389</s> 
+GROUND TRUTH: <s> That's really good You should try those Yes! Batman has made a lot of good movies</s> 
+SEEKER: <s> I haven't seen that one either but I'll check it out.  I really loved @140476</s> 
+GROUND TRUTH: <s> Well, i hope i have helped Enjoy your evening Good bye</s> 
+SEEKER: <s> Yes you helped so much thank you, good bye.</s> 
+CONVERSATION:30
+GROUND TRUTH: <s> Have you seen the movie @161723</s> 
+SEEKER: <s> I have seen it once, a long time ago.  It was really good but it might be a little dated for me now.</s> 
+GROUND TRUTH: <s> Yeah its a bit dated for shure What kind of movie genres do you like</s> 
+SEEKER: <s> I enjoy fantasy type movies, and goofy comedies.  Any suggestions?</s> 
+GROUND TRUTH: <s> For me the best fantsy is @175843 Have you seen it</s> 
+SEEKER: <s> For example, @173843 and @131244.</s> 
+GROUND TRUTH: <s> Or @111918 very funny comedy</s> 
+SEEKER: <s> I love @175843, but @171245 was too tedious! I haven't seen @111918, if I like @135571 would I like it?</s> 
+GROUND TRUTH: <s> definitely the movie @111918 Is for you!</s> 
+SEEKER: <s> Perfect, thank you.  That's a great recommendation!</s> 
+GROUND TRUTH: <s> Great, anytime!</s> 
+SEEKER: <s> Bye!</s> 
+GROUND TRUTH: <s> Bye</s> 
+CONVERSATION:31
+GROUND TRUTH: <s> Hello! What kind of movie are you looking for today?</s> 
+SEEKER: <s> Hello I guess I am not sure what I am looking for.  Do you know of any good romance movies?</s> 
+GROUND TRUTH: <s> I love @188302 . Its an older fairy tale romance with Drew Barrmore @173253 is also a good action adventure romance.</s> 
+SEEKER: <s> I've never really watched these types of movies and I don't know where to start. I haven't seen either of these I will have to check them out.</s> 
+GROUND TRUTH: <s> What else would you like in the movie? comedy, fairy tales?</s> 
+SEEKER: <s> I always like @88267 I think that is the name of it.</s> 
+GROUND TRUTH: <s> What movies outs die of the romance genre do you like?</s> 
+SEEKER: <s> And not really that romantic but totally hilarious @121440. I love comedies like @85159.  This movie never fails to crack me up.</s> 
+GROUND TRUTH: <s> So @88267 is a crime movie with some romance</s> 
+SEEKER: <s> And there is another I don't know what you would call the genre but the name is @84001 .</s> 
+GROUND TRUTH: <s> Have you seen @166069? Some romance and action</s> 
+SEEKER: <s> Yes but @88267 the love was so real it strikes me as a great romance, I have never gotten through all of @166069. Well I am definitely going to look in to your recommendations.  Thank you, have a great day.</s> 
+GROUND TRUTH: <s> Did you like the scifi aspect of @84001 ? Have a nice day!</s> 
+CONVERSATION:32
+GROUND TRUTH: <s> Hello what kind of movies are you looking for?</s> 
+SEEKER: <s> Hi, I love musicals and am looking for some new ones! @106887 is a current favorite</s> 
+GROUND TRUTH: <s> I am not sure that I know many musicals.  I have never seen @106887. I have seen @80240  as a child.</s> 
+SEEKER: <s> I also enjoy @111694 I have seen Annie but it was sort of meh</s> 
+GROUND TRUTH: <s> I haven't seen that one either.  If anything I am a horror fan all the way. I grew up watching @77161 and @130591.</s> 
+SEEKER: <s> I havent seen a lot of horror movies because they terrify me</s> 
+GROUND TRUTH: <s> I like that scared to the couch feeling, though sometimes I have to follow up my horror movies with a great comedy.  Something like @90253.</s> 
+SEEKER: <s> I love Adam Sandler! My favorite movie of his is @150451 Do you know of any other good 90's comedies?</s> 
+GROUND TRUTH: <s> I love @150451. @170060  and @86168 are 2 all time favorites.</s> 
+SEEKER: <s> I havent seen either of those but I will take a look! Thank you for the new movie suggestions</s> 
+GROUND TRUTH: <s> Thank you too.  You have a great day, good bye.</s> 
+CONVERSATION:33
+GROUND TRUTH: <s> Hi there are you interested in some classic comedies?</s> 
+SEEKER: <s> I am actually looking for movies for my 12 yr olds sleepover</s> 
+GROUND TRUTH: <s> There is a movie called @177915 and it is absolutely hilarious. Well @177915 is family friendly I could do better I am sure.  How abut @134885  and @100750</s> 
+SEEKER: <s> I dont think the kids would be interested in a movie that old. Hunger Games they have seen and love</s> 
+GROUND TRUTH: <s> Well how about @119144 .</s> 
+SEEKER: <s> They really liked @77610 when I showed that to them and @119144 could be good too</s> 
+GROUND TRUTH: <s> I could also suggest @133236.</s> 
+SEEKER: <s> I think I will try that with them as well.</s> 
+GROUND TRUTH: <s> or the newest one I believe is @181715 .</s> 
+SEEKER: <s> We havent seen that one but they do like super heroes I think that should be enough movies for one sleepover</s> 
+GROUND TRUTH: <s> sounds good.  You have a great day.  Thank you and good bye.</s> 
+CONVERSATION:34
+SEEKER: <s> Hello, are you a movie buff?</s> 
+GROUND TRUTH: <s> Hi, I guess I could say yes from the ridiculous stack of movies :) you?</s> 
+SEEKER: <s> I watch many movies. I especially like science fiction. Any recommendations?</s> 
+GROUND TRUTH: <s> An oldy but a goody is @134101. I prefer more actions and comedies, any recomendations?</s> 
+SEEKER: <s> I like Bruce Willis action.</s> 
+GROUND TRUTH: <s> I really enjoy movies like @78418 and @99583. Recently we watched @136632 and it was great!</s> 
+SEEKER: <s> I like Seven Samori as well as the Magnificent Seven.</s> 
+GROUND TRUTH: <s> I like Bruce Willis in a lot of movies, especially in @161313</s> 
+SEEKER: <s> I will watch The Avengers again, Thanks!</s> 
+GROUND TRUTH: <s> I have not seen @93115</s> 
+SEEKER: <s> Please watch it. Lots of action. A classic.</s> 
+GROUND TRUTH: <s> I will add it to the Netflix que. Thank you!</s> 
+SEEKER: <s> I guess we are through, nice talking to you.</s> 
+GROUND TRUTH: <s> Have a great day! goodbye</s> 
+CONVERSATION:35
+GROUND TRUTH: <s> Hi! What kind of movies are you looking for today?</s> 
+SEEKER: <s> I want to watch some classics like @127676. Or maybe something like @134101.</s> 
+GROUND TRUTH: <s> Have you seen both of those movies?</s> 
+SEEKER: <s> oh yes I have seen both of them multiple times.</s> 
+GROUND TRUTH: <s> Not as old but @197200 I would consider a semi classic.</s> 
+SEEKER: <s> I have not seen @197200 or if I have I do not remember it all.  I will have to check that out.</s> 
+GROUND TRUTH: <s> It is comedic</s> 
+SEEKER: <s> Oh there is another old one that I always loved it has a little bit of everything it is called @114785.</s> 
+GROUND TRUTH: <s> Along the same lines as Airplane is @87490 which is a lesser known movie I was introduced to in a film class</s> 
+SEEKER: <s> I have heard of it before but I have never actually watched it.  I will definitely have to check it out now though. Oh and another all time favorite is @78168.</s> 
+GROUND TRUTH: <s> If you liked @114785 for the music I would suggest @105923 And another good Gene Wilder film is @99910 !</s> 
+SEEKER: <s> I will have to check those ones out as well. Thank you for all the suggestions.  this should keep me busy for a while.</s> 
+GROUND TRUTH: <s> Woudl you like any other suggestions?</s> 
+SEEKER: <s> No I think that's great thank you, Good bye.</s> 
+GROUND TRUTH: <s> Bye!</s> 
+CONVERSATION:36
+GROUND TRUTH: <s> Hey I heard you're looking for movies what kind of recommendation would you like?</s> 
+SEEKER: <s> I enjoy movies with a lot of action.</s> 
+GROUND TRUTH: <s> Have you seen @78340 this movie is action packed to the max.  I can't wait to get to see @204870.</s> 
+SEEKER: <s> Yes I have seen Deadpool and you are right, its great. I'm also waiting on the second one</s> 
+GROUND TRUTH: <s> Do you like Mark Wahlberg?  He's in a great movie called @108746 , this movie is full of action and suspense.  Edge of my seat the whole time.</s> 
+SEEKER: <s> Really? Yes I have heard of him but not that movie. I'll have to check it out. Do you have any other suggestions?</s> 
+GROUND TRUTH: <s> Oh for sure, it is a great movie and Mark Wahlberg is a stud.  Have you ever seen @111063 ?</s> 
+SEEKER: <s> Missed that one as well.</s> 
+GROUND TRUTH: <s> Oh you gotta into it.  It's a great movie.</s> 
+SEEKER: <s> I will do that. Did he ever do fantasy type movies? I'm into those as well</s> 
+GROUND TRUTH: <s> I'm not sure, I would have to look into that.  There is one he is in called @192810.  Kind of crazy scary movie.</s> 
+SEEKER: <s> Sounds interesting. I'll check those out. Thank you.</s> 
+GROUND TRUTH: <s> Thank you, good bye.</s> 
+SEEKER: <s> Bye.</s> 
+CONVERSATION:37
+SEEKER: <s> Hello I am looking for some movies to watch can you recommend anything to me?</s> 
+GROUND TRUTH: <s> Yes, what types of movies are you interested in?</s> 
+SEEKER: <s> I love all kinds of movies Horror like @118338, comedies like @177915 and romances like @97219.</s> 
+GROUND TRUTH: <s> Have you seen @118762 ? I thought that was a pretty funny movie</s> 
+SEEKER: <s> I have seen that movie and it is definitely hilarious.  I have yet to watch the next one though, @133128.</s> 
+GROUND TRUTH: <s> That movie is also pretty good! I would also recommend watching @192120 for romance, it is a very sweet and emotional movie. It is in an animated style.</s> 
+SEEKER: <s> I have not seen that but I will have to look in to it for sure. Well I think these are some great suggestions.</s> 
+GROUND TRUTH: <s> I'm glad you like them. Hope you have a great day!</s> 
+SEEKER: <s> You too, Good bye.</s> 
+CONVERSATION:38
+SEEKER: <s> Hello</s> 
+GROUND TRUTH: <s> hi</s> 
+SEEKER: <s> Can you give me some movie titles</s> 
+GROUND TRUTH: <s> Dark night the rise Scarface</s> 
+SEEKER: <s> i really like @161723 And @196336</s> 
+GROUND TRUTH: <s> Likewise, Alpacino is great.</s> 
+SEEKER: <s> Yes i really like crime movies something like @143198 Or @91332 Tarantino is really great</s> 
+GROUND TRUTH: <s> Yeah those are the best, especially Pulp fiction. Samuel Jackson made the movie great !</s> 
+SEEKER: <s> yes i have that wallet he had Bad mothef*ck*r :D Thanks for your reccomendations! Bye</s> 
+CONVERSATION:39
+SEEKER: <s> Hello Can you reccoment a movie</s> 
+GROUND TRUTH: <s> Yes, Avengers is good</s> 
+SEEKER: <s> I really like @178950 Or @147970 I really dont like superheroes can you reccomend something else something like @146771 or @77983 Also @181299 is really good morgan freeman did the role grat!</s> 
+GROUND TRUTH: <s> yeah those are great movies I love Napoleon dynamite</s> 
+SEEKER: <s> Ok i will see it i think thats a great comedy for a lazy weekend :D Ok thank you bye!</s> 
+GROUND TRUTH: <s> no problem, bye</s> 
+CONVERSATION:40
+GROUND TRUTH: <s> Hey</s> 
+SEEKER: <s> Hi Can you give me a movie recommendation</s> 
+GROUND TRUTH: <s> I like the movie Get out It really portrays how the majority of america really is</s> 
+SEEKER: <s> Something like the @205480 Or @195424 I dont like the movie get out</s> 
+GROUND TRUTH: <s> Ohh ok and I wonder why</s> 
+SEEKER: <s> it portrays black people as an indagerous species and i dont beleve in that Where i live thats not the case :D</s> 
+GROUND TRUTH: <s> indagerous&gt; whats that ?</s> 
+SEEKER: <s> So something like @161723 Or @151837</s> 
+GROUND TRUTH: <s> mmhm it was nice talking to you , good bye</s> 
+SEEKER: <s> i meant endangered :D</s> 
+GROUND TRUTH: <s> Hey , you guys are always bothering us , so you might as well</s> 
+SEEKER: <s> Omg sorry if i offended you with my opinions man</s> 
+GROUND TRUTH: <s> Not at all,</s> 
+SEEKER: <s> I hope you all well</s> 
+GROUND TRUTH: <s> Same here</s> 
+SEEKER: <s> bye! Thanks for you recommendation!</s> 
+CONVERSATION:41
+SEEKER: <s> Hi! How are you? I really like murder mysteries. Can you help me find one?</s> 
+GROUND TRUTH: <s> Great, how are you? Have you seen @185445</s> 
+SEEKER: <s> I really like @182709 . No I have not. Is it good? I like @203424 a lot too.</s> 
+GROUND TRUTH: <s> It's awesome. Its a really funny murder mystery with Val Kilmer and RDJ</s> 
+SEEKER: <s> Cool I will have to watch it. We should keep giving each other suggestions later on. :) I also like @146771 .</s> 
+GROUND TRUTH: <s> For sure.</s> 
+SEEKER: <s> It's been nice chatting with you.</s> 
+GROUND TRUTH: <s> Another great one.</s> 
+SEEKER: <s> Goodbye. Hope to talk to you soon. I'll be around. Bye</s> 
+GROUND TRUTH: <s> You too</s> 
+CONVERSATION:42
+GROUND TRUTH: <s> Hi! It is nice to meet you. Would you like to know about a good movie? What kinds of movies do you like?</s> 
+SEEKER: <s> I love all types of movies but prefer action drama. how about you?</s> 
+GROUND TRUTH: <s> I like drama too. I really like @205480 . Do you like that? @178142  was awesome. I highly recommend it! @120003 and @181299 are two of my favorite movies.</s> 
+SEEKER: <s> @205480 is a great movies. probably the only movie that ever made me cried</s> 
+GROUND TRUTH: <s> Which once that I recommended would you like to watch? I hope we can talk again. ;) I would love to learn more about movies with you later on.</s> 
+SEEKER: <s> you got good taste @181299 is great. I forgot about that one. Have you ever seen @137293</s> 
+GROUND TRUTH: <s> No I have not. Sounds great! I hope you have a great day &amp; hope to talk to you soon.:) Goodbye.</s> 
+CONVERSATION:43
+GROUND TRUTH: <s> Hey, how's it going?</s> 
+SEEKER: <s> Hey it's great</s> 
+GROUND TRUTH: <s> What kind of movies do you like?</s> 
+SEEKER: <s> I am looking for a scary movie I don't normally watch them so I am open to lots of suggestions</s> 
+GROUND TRUTH: <s> I really like @205430</s> 
+SEEKER: <s> Oh I have never seen it I like the old school ones, like Halloween</s> 
+GROUND TRUTH: <s> it was very good. and not too scary or gruesome for someone who doesn't normally watch  them</s> 
+SEEKER: <s> @99244</s> 
+GROUND TRUTH: <s> great classic</s> 
+SEEKER: <s> or the silly ones like @184951 What about @184418 ? Did you see that? Is it good?</s> 
+GROUND TRUTH: <s> @131178 is pretty creepy only a few jump scares @184418 was so good.</s> 
+SEEKER: <s> Oh yeah that is awesome. Thanks a lot. I hope you can help me later! Goodbye! :)</s> 
+GROUND TRUTH: <s> same, bye</s> 
+CONVERSATION:44
+SEEKER: <s> Hello, I am looking for movies for a night with friends that I have coming up.  Any suggestions?</s> 
+GROUND TRUTH: <s> @204974 is a great movie</s> 
+SEEKER: <s> When I was younger I liked movies like @77161</s> 
+GROUND TRUTH: <s> I really love action movies</s> 
+SEEKER: <s> Oh I haven't seen that one yet, but I really want to.</s> 
+GROUND TRUTH: <s> You may be interested in @202155</s> 
+SEEKER: <s> I like action movies too.  I love @183121  and @100821 .</s> 
+GROUND TRUTH: <s> I have every x-men movie</s> 
+SEEKER: <s> Oh yes I have seen @202155.</s> 
+GROUND TRUTH: <s> I love @183121</s> 
+SEEKER: <s> I haven't seen it yet but I want to, @181715 looks amazing.</s> 
+GROUND TRUTH: <s> @181715  is the great</s> 
+SEEKER: <s> I will definitely have to check that out than.</s> 
+GROUND TRUTH: <s> Have you seen @205163 That may be a great movie for an upcoming movie night</s> 
+SEEKER: <s> No I haven't seen that yet.  I haven't seen any new movies in a while. For sure I will have to check that one out too.  Sounds like it will be an action packed night. Thank you for your help.</s> 
+GROUND TRUTH: <s> Yes you are welcome, I am most delighted to help</s> 
+SEEKER: <s> Have a great night, good bye.</s> 
+GROUND TRUTH: <s> Ta! Good Night</s> 
+CONVERSATION:45
+GROUND TRUTH: <s> Hi! How are you?</s> 
+SEEKER: <s> I'm good and you? Just looking for some good movies to watch.</s> 
+GROUND TRUTH: <s> I am looking for a comedy. I really like @157394 . Oh I see. What do you like?</s> 
+SEEKER: <s> I love that movie.  Have you seen @181301</s> 
+GROUND TRUTH: <s> Yes that is great. Would you like @191440 . It's old but pretty funny.</s> 
+SEEKER: <s> I have seen that movie and I really like it.  It's funny and heartwarming.</s> 
+GROUND TRUTH: <s> I like @136983 too.</s> 
+SEEKER: <s> I'm stuck on Adam Sandler and Drew Berrymore have you seen @115908 ?</s> 
+GROUND TRUTH: <s> Cool. Maybe I helped. Yes, I love that movie. Did o help you, or do you need more help?</s> 
+SEEKER: <s> Oh I love @136983 . You definitely helped me thank you very much.</s> 
+GROUND TRUTH: <s> Great. Goodbye.</s> 
+SEEKER: <s> goodbye.</s> 
+CONVERSATION:46
+GROUND TRUTH: <s> Hi how are you? Can I help you find a movie?</s> 
+SEEKER: <s> I'm good yes I would love to see some action adventure. I like the movie @108746.</s> 
+GROUND TRUTH: <s> Have you seen @101775 ? That is a classic. I've never seen that.</s> 
+SEEKER: <s> Oh and this one called @146872, such a good movie.</s> 
+GROUND TRUTH: <s> Have you seen @77115 ?</s> 
+SEEKER: <s> I have not seen @101775.</s> 
+GROUND TRUTH: <s> It is very good. Oh you have to see it. It's one of the best movies ever made. I hope I've helped you.</s> 
+SEEKER: <s> Yes I have seen @77115 it is a great movie. You have definitely helped, thank you and good bye.</s> 
+GROUND TRUTH: <s> I hope you have a good night. Goodbye.</s> 
+CONVERSATION:47
+GROUND TRUTH: <s> Hi. How are you? Can I help you find a good movie tonight?</s> 
+SEEKER: <s> did you like the @170119 sure</s> 
+GROUND TRUTH: <s> I did. It was great. What kind of movies do you like.</s> 
+SEEKER: <s> i am looking for a horror movie</s> 
+GROUND TRUTH: <s> Ok, have you seen @184418 ?</s> 
+SEEKER: <s> Yes, it was very different then what I usually watch. I didn't like it so much.</s> 
+GROUND TRUTH: <s> Have you seen the @202190 ? It is a classic. Also, @99244 is a classic. It's the best horror movie.</s> 
+SEEKER: <s> I have never seen it. All I know is that Jack Nicholson is in it. lol Yes. I have seen Halloween. @99244</s> 
+GROUND TRUTH: <s> I think you would really like @202190 . Was I able to help you tonight?</s> 
+SEEKER: <s> Yes you did great. Thank you.</s> 
+GROUND TRUTH: <s> Thanks. Goodbye.</s> 
+CONVERSATION:48
+GROUND TRUTH: <s> Hi!  Do you like to watch action movies?  I just watched @108934  and enjoyed it. If you like dumb cult classic movies, you can't get better/worse than @89352</s> 
+SEEKER: <s> Hi there sorry I'm here</s> 
+GROUND TRUTH: <s> Great!  What type of movies do you like?</s> 
+SEEKER: <s> I am into action movies like @108934  but my boyfriend always gets to pick. Can you recommend like a 90s classic? Something to the effect of @157074</s> 
+GROUND TRUTH: <s> I loved @157074 You might like @185065 which had Matthew Broderick and Reese Witherspoon.</s> 
+SEEKER: <s> Do you think the Reese Witherspoon one called @179731 ? haha thats great you brought those up! Thank you very much for the recommendations. I might make him watch @143623  too haha</s> 
+GROUND TRUTH: <s> I've never seen @179731 .  Even though it's more 80s you might like @152496 if you liked @157074 . Yes, or @128167 .  He would love that Ha!</s> 
+SEEKER: <s> LOVED @152496 Winona forever</s> 
+GROUND TRUTH: <s> Yes!</s> 
+SEEKER: <s> Do you think he'd like @77363 ?</s> 
+GROUND TRUTH: <s> He probably would.  How about @107407  or @184951</s> 
+SEEKER: <s> Perfect! I'll see what I can find. Thank you for your recommendations. Its always nice to have a second opinion,</s> 
+GROUND TRUTH: <s> Thank you!</s> 
+CONVERSATION:49
+SEEKER: <s> Hello Can you please reccomend a movie</s> 
+GROUND TRUTH: <s> Hello, sure I will.</s> 
+SEEKER: <s> Something like @203424 I really liked that one</s> 
+GROUND TRUTH: <s> Have you seen the new Avengers? @205163</s> 
+SEEKER: <s> I have not Is that a good mmovie?</s> 
+GROUND TRUTH: <s> You should for sure go and watch the @205163 . Also go and rewatch the @203424 It is a great movie! I would highly suggest it!</s> 
+SEEKER: <s> Thanks what do you think of a comedy</s> 
+GROUND TRUTH: <s> Have you seeen @205695 ?</s> 
+SEEKER: <s> @111918 or @109474</s> 
+GROUND TRUTH: <s> It's new in theaters now</s> 
+SEEKER: <s> Thats the one! Thanks! Thanks!
+Bye! Thanks!
+Bye!</s> 
+CONVERSATION:50
+SEEKER: <s> Hello</s> 
+GROUND TRUTH: <s> Hello! how are you? Have you seen the new @205163</s> 
+SEEKER: <s> Im fine thanks! yes i have its really great</s> 
+GROUND TRUTH: <s> I agree, do you have any suggestions on movies?</s> 
+SEEKER: <s> i really like @158006 Also</s> 
+GROUND TRUTH: <s> Yes! I love all of the marvel movies!</s> 
+SEEKER: <s> @145365 or @108934 must see!</s> 
+GROUND TRUTH: <s> I really love @111429 Okay, that is all. Goodbye!</s> 
+SEEKER: <s> Goodbye!</s> 
+CONVERSATION:51
+GROUND TRUTH: <s> Hello! Have you seen either of these? @205163  or @108934 @169419</s> 
+SEEKER: <s> Omg Yes! i really like them do you have something else for me a superhero movie would be great! Maybe an older @108195 movie</s> 
+GROUND TRUTH: <s> Have you seen @181370</s> 
+SEEKER: <s> I have not thats perfect Thank you!</s> 
+GROUND TRUTH: <s> Thank you.</s> 
+SEEKER: <s> Bye!</s> 
+CONVERSATION:52
+GROUND TRUTH: <s> hello</s> 
+SEEKER: <s> Can you give me any movie sugestions?</s> 
+GROUND TRUTH: <s> tell me what kind of movies do you like?</s> 
+SEEKER: <s> I like comedy movies</s> 
+GROUND TRUTH: <s> i would recommend you @78874  it is very funny i also would recommend you @108426</s> 
+SEEKER: <s> I liked @78874 I thought it was pretty good.</s> 
+GROUND TRUTH: <s> those are really funny, have you seen them? have you seen @134643 ?</s> 
+SEEKER: <s> I havent seen @108426 what it about?</s> 
+GROUND TRUTH: <s> or @78186 it is a movie mady by Adan Sandle</s> 
+SEEKER: <s> I liked those movies I thought they were pretty good</s> 
+GROUND TRUTH: <s> it is pretty funny you know almost all the movie he has done are very funny</s> 
+SEEKER: <s> Yeah I love how he acts</s> 
+GROUND TRUTH: <s> hahahaa, those are old movies but if you see them again you laugh so much</s> 
+SEEKER: <s> I think I will watch @108426  sounds interesting</s> 
+GROUND TRUTH: <s> i hope i have helped have a good evening</s> 
+SEEKER: <s> and maybe rewatch the others thanks bye</s> 
+GROUND TRUTH: <s> enjoy your evening bye</s> 
+CONVERSATION:53
+SEEKER: <s> Hi there</s> 
+GROUND TRUTH: <s> Hello</s> 
+SEEKER: <s> I&quot;m looking for movies that have like brain twists? I enjoy movies such as @193041 I also like @183824</s> 
+GROUND TRUTH: <s> I can honestly say I have never seen @193041 i believe it does have Tom Cruise right?</s> 
+SEEKER: <s> yeah it does... just any weird twisty films</s> 
+GROUND TRUTH: <s> I have never seen that one either.</s> 
+SEEKER: <s> I could go for a romantic comedy instead maybe.</s> 
+GROUND TRUTH: <s> have you ever seen @98259 with Charlize Theron?</s> 
+SEEKER: <s> Yes! that is a freaky one. haha she did so well I couldn't believe it was her</s> 
+GROUND TRUTH: <s> @132804 is a good Romantic comedy movie right??? and she looked exactly like her too it was freaky oh another weird and one is @81568 with Denzel</s> 
+SEEKER: <s> I haven't seen @132804 . Do you know of anything similar to @166729</s> 
+GROUND TRUTH: <s> how about @184051</s> 
+SEEKER: <s> Awesome! I'll put those down for another night. I like your suggestion of @184051 I think I'll go with that one. Thank you so much for your help!</s> 
+GROUND TRUTH: <s> also @123015 with Sandra Bullock is amazing as is Ryan Reynolds your very welcome!</s> 
+SEEKER: <s> ooooh Can't go wrong with ryan haha have a good night</s> 
+GROUND TRUTH: <s> you too, thank you...goodnight.</s> 
+CONVERSATION:54
+SEEKER: <s> Hello, I am looking for new dramas or based on true life events such as @156060 or @85645</s> 
+GROUND TRUTH: <s> I would recommend @169090 or @165261 What was the last movie you saw?</s> 
+SEEKER: <s> I have not seen @169090 but I have seen @165261 The last movie I saw was @205547</s> 
+GROUND TRUTH: <s> A classic fictional courtroom drama is @136808 You might enjoy @115669</s> 
+SEEKER: <s> Ironically, I bought @136808 but haven't watched since I purchased it. Thanks for the suggestion. I have not seen @115669 I may have to watch that one as well. Do you have any suggestions for Comedy?</s> 
+GROUND TRUTH: <s> @118762 and @135571 are good comedies.</s> 
+SEEKER: <s> those both sound good, I will have to add those to my list, thank you so much for your help today.</s> 
+GROUND TRUTH: <s> You're welcome.</s> 
+CONVERSATION:55
+GROUND TRUTH: <s> Hello, what genre of movie do you like?</s> 
+SEEKER: <s> I like all kinds, I feel like I could use a good Comedy</s> 
+GROUND TRUTH: <s> Have you seen @118762 or any of the @135571 movies?</s> 
+SEEKER: <s> No, I can't say that I have seen @118762 but I have seen @135571 and it was good Have any suggestions for Will Ferrell movies?</s> 
+GROUND TRUTH: <s> Yes. The classics are @174475 and @141928 I feel like. His new one, @188779 was very good.</s> 
+SEEKER: <s> Sounds good, I have never seen @174475 or @188779 So I will add those to my weekend binge fest. I did see @141928 Shake &amp; Bake! LOL</s> 
+GROUND TRUTH: <s> Yes! Alright, have a good one.</s> 
+SEEKER: <s> You too, thank you.</s> 
+CONVERSATION:56
+GROUND TRUTH: <s> Hi, what kind of movies are you looking for.</s> 
+SEEKER: <s> I'm looking for any recent horror movies that are good.</s> 
+GROUND TRUTH: <s> I heard the remake of @187028 was pretty good</s> 
+SEEKER: <s> I haven't gotten around to seeing that, but I will!</s> 
+GROUND TRUTH: <s> Also @205430 is another one you might like</s> 
+SEEKER: <s> Yes, I didn't get to see that yet, but heard good things about it.</s> 
+GROUND TRUTH: <s> @171552 and @144779 are also really horrific</s> 
+SEEKER: <s> Yes! I saw both of those and enjoyed them.</s> 
+GROUND TRUTH: <s> Would you like some more suggestions?</s> 
+SEEKER: <s> What was the last indie movie you saw that you would suggest watching?</s> 
+GROUND TRUTH: <s> I would have to say @156802 was a good one also @110011 as well</s> 
+SEEKER: <s> I forgot about @156802  I wanted to see, but haven't yet. I saw @110011 and enjoyed it. Thank you and goodbye!</s> 
+GROUND TRUTH: <s> have a good day!</s> 
+CONVERSATION:57
+GROUND TRUTH: <s> Hello What kind of movies do you like?</s> 
+SEEKER: <s> what ever hello i'm open to any movie i just watched @204974 and i loved it is very interesting actually</s> 
+GROUND TRUTH: <s> Have you seen @205163</s> 
+SEEKER: <s> but i have noot seen @205163  there are many people who say is very interesting i thin i have not seen it</s> 
+GROUND TRUTH: <s> I've heard the same abut that movie</s> 
+SEEKER: <s> i may try that one is it interesting? which another one would you recommend me?</s> 
+GROUND TRUTH: <s> You can watch also @187028 It's a remake very good</s> 
+SEEKER: <s> i watched @204794  the old one it is similar to the old one? well thank you for helping me i will try them good bye have a nice day</s> 
+GROUND TRUTH: <s> It is more interesting</s> 
+CONVERSATION:58
+SEEKER: <s> Hi Any recomendations for a good movie?</s> 
+GROUND TRUTH: <s> Yes I love @137293 and @182531 Aldo @205480 is great. what movies do you like</s> 
+SEEKER: <s> i like @190285 is a  good movie and also @143198 its a great movie.</s> 
+GROUND TRUTH: <s> @190285 is a great choice. @143198 is also great. So that mean you like @150957 I love mob movies. If you haven't seen @147826 you should give it a peek have you seen it</s> 
+SEEKER: <s> yes moob movies are good like @81469</s> 
+GROUND TRUTH: <s> Well thank you for your suggestions. I will rewatch @190285 tonight. I totally forgot about that movie. I never seen @81469 It was fun talking to you.</s> 
+SEEKER: <s> same have a good one</s> 
+GROUND TRUTH: <s> Have a great day</s> 
+CONVERSATION:59
+GROUND TRUTH: <s> hello</s> 
+SEEKER: <s> Hi</s> 
+GROUND TRUTH: <s> tell me what kind of movies would you like to watch?</s> 
+SEEKER: <s> I like all movies but mob movies are my favorite ones like @150957</s> 
+GROUND TRUTH: <s> i just watched @204974  and i loved it what about @175252 ?</s> 
+SEEKER: <s> its a good movie marvel movies are good do you like the DC world like @181370</s> 
+GROUND TRUTH: <s> have you seen that one? yes that batman guy is awesome</s> 
+SEEKER: <s> i live bond movies the old ones like @202936 it was nice talking to you i have to go have a good day</s> 
+GROUND TRUTH: <s> and what about @127378 i was nice good bye</s> 
+CONVERSATION:60
+GROUND TRUTH: <s> What genre of movie do you like?</s> 
+SEEKER: <s> I like comedies</s> 
+GROUND TRUTH: <s> Have you seen @141928  or @135571 ?</s> 
+SEEKER: <s> I have seen and enjoyed both of them.</s> 
+GROUND TRUTH: <s> Did you see that new Will Ferrel movie @188779 ?</s> 
+SEEKER: <s> I did see it. I did not like it very much.</s> 
+GROUND TRUTH: <s> Me too, buddy. Have you seen @117972 ?</s> 
+SEEKER: <s> Yes, I love a dark comedy like that</s> 
+GROUND TRUTH: <s> I would recommend @81385 and other Cohen brother movies for sure.</s> 
+SEEKER: <s> That sounds great, thank you for the recommendation.</s> 
+GROUND TRUTH: <s> Awesome, see you later.</s> 
+CONVERSATION:61
+SEEKER: <s> Hi. Can you reccomend an action movie?</s> 
+GROUND TRUTH: <s> Hi! How are you? Do you like @78418 ? There is a new one out right now.</s> 
+SEEKER: <s> Yes. I really liked @78418</s> 
+GROUND TRUTH: <s> It is @205163 . I heard it is awesome.</s> 
+SEEKER: <s> I saw it a couple of weeks ago it was very good!</s> 
+GROUND TRUTH: <s> I really loved @184098 and the sequel @184098 , Those are great movies, and they are funny too. My favorite classic is @101775 .</s> 
+SEEKER: <s> I enjoyed @169419 too that was very funny.</s> 
+GROUND TRUTH: <s> I haven't seen that.</s> 
+SEEKER: <s> It was good and verry funny.</s> 
+GROUND TRUTH: <s> Have you see @114909 ?</s> 
+SEEKER: <s> No I have not seen that movie.</s> 
+GROUND TRUTH: <s> You should! I highly recommend it. I would definitely watch it. It is one of the best action movies of all time. I hope I helped you some today.</s> 
+SEEKER: <s> I will have to watch that movie. Thanks for the suggestion!</s> 
+GROUND TRUTH: <s> Goodbye!</s> 
+CONVERSATION:62
+SEEKER: <s> hi how are you? It is nice to meet you. Can you help me find a movie today?</s> 
+GROUND TRUTH: <s> I'm good. How about you?</s> 
+SEEKER: <s> I am in the mood to watch a comedy. I really like movies with Drew Barrymore. I like slapstick, silly movies. I really liked @115908 . What do you think I would like? I really like @146481 . That is hilarious. @178096 is one of my favorites too.</s> 
+GROUND TRUTH: <s> How about @157394</s> 
+SEEKER: <s> Maybe you can help me find one. Yeah, I love that one. I haven't seen anything recent though. Maybe something that has been recently released? I am so behind when it comes to movies.</s> 
+GROUND TRUTH: <s> Do you think you'd like the new @90248?</s> 
+SEEKER: <s> What is it about? Is it like @101158 ? I really liked that move.</s> 
+GROUND TRUTH: <s> Yes, it's part of the @148231 series. But it's a new one. I don't know if it's out yet.</s> 
+SEEKER: <s> Cool. That sounds awesome. I will have to watch it. Thanks so much for the help! Have a great day! Goodbye.</s> 
+GROUND TRUTH: <s> You're welcome. Good day to you, too!</s> 
+CONVERSATION:63
+GROUND TRUTH: <s> Hi! How are you today? It is nice to meet you. Do you need help finding a movie?</s> 
+SEEKER: <s> Hello Yes do you have any drama reccomendations? What types of movies do you like?</s> 
+GROUND TRUTH: <s> Sure, I love dramas. What is your favorite drama? I like comedies, but I love all kinds of movies.</s> 
+SEEKER: <s> I really like @181299 Have you seen @169419 it was a superhero movie but very funny.</s> 
+GROUND TRUTH: <s> I haven't seen @169419 . Have you seen @187714 ? It is a drama, but it has some romance in it too.</s> 
+SEEKER: <s> Yes I have. I loved the book and the movie was very good too.</s> 
+GROUND TRUTH: <s> @104180 was actually pretty good too. It was very dramatic, because it was a musical. I know, @187714 made me cry!</s> 
+SEEKER: <s> I acutually have not seen @104180 yet</s> 
+GROUND TRUTH: <s> I really liked @129416 . That is an amazing movie if you haven't seen it. I hope I am helping you some.</s> 
+SEEKER: <s> Thats a good reccomenation I have not seen it yet.</s> 
+GROUND TRUTH: <s> You should watch it. It's amazing. I really hope you have a great day.</s> 
+SEEKER: <s> I will! thanks you too!</s> 
+GROUND TRUTH: <s> Great! Goodbye.</s> 
+CONVERSATION:64
+GROUND TRUTH: <s> Hi are  you looking for a specific type of movie?</s> 
+SEEKER: <s> Hello</s> 
+GROUND TRUTH: <s> I am trying to find a movie based on a book to watch.</s> 
+SEEKER: <s> I like action movies</s> 
+GROUND TRUTH: <s> Have you seen the new @205163 movie?</s> 
+SEEKER: <s> Yes I have Have you seen @79935</s> 
+GROUND TRUTH: <s> yes I have.</s> 
+SEEKER: <s> How did you like it?</s> 
+GROUND TRUTH: <s> It was okay but I was interested in somehitng more serious.</s> 
+SEEKER: <s> What other types of movies do you like?</s> 
+GROUND TRUTH: <s> I like historical movies. I watched @204883 recently and liked it</s> 
+SEEKER: <s> ok have you seen @126368</s> 
+GROUND TRUTH: <s> No I have not. Thats a good suggestion. thanks for your help!</s> 
+SEEKER: <s> your welcome</s> 
+CONVERSATION:65
+GROUND TRUTH: <s> What genre of movie do you like?</s> 
+SEEKER: <s> I like Comedy Movies!!</s> 
+GROUND TRUTH: <s> Have you seen @141928 or @135571 ?</s> 
+SEEKER: <s> I have seen both movies!</s> 
+GROUND TRUTH: <s> What about last year's @188779 ?</s> 
+SEEKER: <s> I have not seen that movie yet but it looks like it would be a good one!</s> 
+GROUND TRUTH: <s> @141524 with Seth Rogan is good too.</s> 
+SEEKER: <s> I seen that one. I really liked it. Isnt there a second one that came out like within the last year?</s> 
+GROUND TRUTH: <s> Yes, @159077!</s> 
+SEEKER: <s> Thats it! I want to see that one!</s> 
+GROUND TRUTH: <s> Awesome! Have a good one.</s> 
+CONVERSATION:66
+SEEKER: <s> Hi</s> 
+GROUND TRUTH: <s> Hi, how are you?</s> 
+SEEKER: <s> Im good you?</s> 
+GROUND TRUTH: <s> I'm well! Having a good start to the day!</s> 
+SEEKER: <s> I like action movies. Any suggestions?</s> 
+GROUND TRUTH: <s> I just saw @204870 maybe you'd like that!</s> 
+SEEKER: <s> I havent seen that. I think I would like that What kind of movies do you like</s> 
+GROUND TRUTH: <s> Have you watched @78340 the first one?</s> 
+SEEKER: <s> I saw @205163 that was great</s> 
+GROUND TRUTH: <s> I like action, comedy, and thrillers mostly. What about you?</s> 
+SEEKER: <s> I have seen the first one as well I meant @205163</s> 
+GROUND TRUTH: <s> Nice! Did you feel Thanos was a bad guy? I personally still feel he was selfish/self-centered. Did you see @184098 and @184098 ?</s> 
+SEEKER: <s> I did, but I also felt bad for him. Strangely I have seen @184098 but i have seen @111429 Im sorry havent for the first one</s> 
+GROUND TRUTH: <s> Oh! Okay, you should see @184098 so that you could even better understand that relationship dynamic with his daughters.</s> 
+SEEKER: <s> Awesome! Thanks</s> 
+GROUND TRUTH: <s> Well, it was nice talking to you! Have a great day! You're welcome!</s> 
+SEEKER: <s> You too bye!</s> 
+CONVERSATION:67
+GROUND TRUTH: <s> Hi, how are you? Did you enjoy your weekend?</s> 
+SEEKER: <s> HI, Im good how are you? I did. What about you?</s> 
+GROUND TRUTH: <s> Nice! I'm well. I enjoyed my weekend. I saw @204870 with my bf. Did you see it?</s> 
+SEEKER: <s> No! I do want to see it though, it looks funny.</s> 
+GROUND TRUTH: <s> Yeah, I liked the first one, @78340 Did you see that one? If not, you definitely should watch it in order.</s> 
+SEEKER: <s> Yes I saw that one. Im a marvel fan are you? I saw @205163 that was great!</s> 
+GROUND TRUTH: <s> Nice! I am a Marvel fan, too! Have you watched @152789 ?</s> 
+SEEKER: <s> Im looking forward to seeing @205817 yep Ive seen that too!</s> 
+GROUND TRUTH: <s> Yes! Me too! I wound up liking @152789 more than I thought I would!</s> 
+SEEKER: <s> Yea I was surprised it was good! Well it was nice to talk to another marvel fan! Have a great day!</s> 
+CONVERSATION:68
+GROUND TRUTH: <s> Hello, how are you?</s> 
+SEEKER: <s> Great and you?</s> 
+GROUND TRUTH: <s> Wonderful, I just seen this awesome movie call @205163 , have you seen it?</s> 
+SEEKER: <s> Not yet, what is it about?</s> 
+GROUND TRUTH: <s> Well have you seen @78418 ?</s> 
+SEEKER: <s> Yes, i liked it. Are you a big fan of action movies?</s> 
+GROUND TRUTH: <s> Well basically all the Avengers get together for a common goal, I really liked it.  I am, what about you?</s> 
+SEEKER: <s> I enjoy good action movie. What else would you recommend me from that genre?</s> 
+GROUND TRUTH: <s> I would recommend @78340 or @134106 if you like comic book action movies like that.</s> 
+SEEKER: <s> I've seen both @78340 and @134106. I think acting in that particular batman movie was phenomenal.</s> 
+GROUND TRUTH: <s> Thank you for the chat, goodbye.</s> 
+CONVERSATION:69
+SEEKER: <s> Hello</s> 
+GROUND TRUTH: <s> Hi, what kind of movies do you like?</s> 
+SEEKER: <s> Whatever you can recommend me Whatever you can recommend me</s> 
+GROUND TRUTH: <s> Have you seen the new movies @205163 or @205744 ?</s> 
+SEEKER: <s> yes! i watched infinitive war and it was very interesting but i did not watched the another one</s> 
+GROUND TRUTH: <s> I would also recommend @205430 and @124848 . Those are some of my favorites!</s> 
+SEEKER: <s> What are those about? Are those funny movies or action movies?</s> 
+GROUND TRUTH: <s> @205430 is horror and @124848 is kind of a horror thriller.</s> 
+SEEKER: <s> i think i could try those ones this evening i kind of like it thank you for helping me</s> 
+GROUND TRUTH: <s> See you!</s> 
+CONVERSATION:70
+SEEKER: <s> hi Do you have any comedies you can recomend?</s> 
+GROUND TRUTH: <s> hi yes of course i would recommend you @78874 that's a really interesting movie have you ever seen @134643 ? it is a old movie but you can love it and smile a lot!!</s> 
+SEEKER: <s> yes I have seen @134643 who is in @78874?</s> 
+GROUND TRUTH: <s> i could also recommend you @78186 as @143994 but i liked more the old one @78874 it is made by Adan Sandler</s> 
+SEEKER: <s> okay I think I saw that.</s> 
+GROUND TRUTH: <s> he is very funny</s> 
+SEEKER: <s> do you know any good dark comedies?</s> 
+GROUND TRUTH: <s> well i hope i have helped let me think let me think there is @81385 have you seen it? Enjoy your evening</s> 
+SEEKER: <s> No i haven't. That is a good reccomendation. Thanks!</s> 
+GROUND TRUTH: <s> Have a nice day good bye Have a nice day good bye Have a nice day good bye Have a nice day good bye</s> 
+SEEKER: <s> good bye</s> 

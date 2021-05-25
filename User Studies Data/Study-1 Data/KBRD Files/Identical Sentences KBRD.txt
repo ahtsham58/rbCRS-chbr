@@ -1,0 +1,348 @@
+Total similar sentences are  1 
+Generated dialogue sentence is...  hi  how about movieid
+ Training dialogue sentence is...  hi how about movieid
+ -------------------------------- 
+Total similar sentences are  4 
+Generated dialogue sentence is...  it is a good one
+ Training dialogue sentence is...  it is a good one
+ -------------------------------- 
+Total similar sentences are  33 
+Generated dialogue sentence is...  movieid is also a good one
+ Training dialogue sentence is...  also a good one is movieid
+ -------------------------------- 
+Total similar sentences are  101 
+Generated dialogue sentence is...  movieid is a good one
+ Training dialogue sentence is...  movieid is a good one
+ -------------------------------- 
+Total similar sentences are  27 
+Generated dialogue sentence is...  your welcome bye
+ Training dialogue sentence is...  your welcome bye
+ -------------------------------- 
+Total similar sentences are  1800 
+Generated dialogue sentence is...  have you seen movieid
+ Training dialogue sentence is...  have you seen movieid
+ -------------------------------- 
+Total similar sentences are  4 
+Generated dialogue sentence is...  i have n't seen that one  i will have to check it out
+ Training dialogue sentence is...  i haven't seen that one  i will have to check it out
+ -------------------------------- 
+Total similar sentences are  31 
+Generated dialogue sentence is...  no problem  have a good day
+ Training dialogue sentence is...  no problem have a good day
+ -------------------------------- 
+Total similar sentences are  468 
+Generated dialogue sentence is...  you too
+ Training dialogue sentence is...  you too
+ -------------------------------- 
+Total similar sentences are  2914 
+Generated dialogue sentence is...  hi
+ Training dialogue sentence is...  hi
+ -------------------------------- 
+Total similar sentences are  6 
+Generated dialogue sentence is...  i would recommend movieid and movieid
+ Training dialogue sentence is...  i would recommend movieid and movieid
+ -------------------------------- 
+Total similar sentences are  1451 
+Generated dialogue sentence is...  movieid movieid movieid movieid movieid movieid movieid movieid movieid
+ Training dialogue sentence is...  movieid
+ -------------------------------- 
+Total similar sentences are  48 
+Generated dialogue sentence is...  i have n't seen that one yet
+ Training dialogue sentence is...  i haven't seen that one yet
+ -------------------------------- 
+Total similar sentences are  27 
+Generated dialogue sentence is...  movieid is a good one too
+ Training dialogue sentence is...  movieid is a good one too
+ -------------------------------- 
+Total similar sentences are  5 
+Generated dialogue sentence is...  i did n't see that one  i did n't see
+ Training dialogue sentence is...  i didn't see that one
+ -------------------------------- 
+Total similar sentences are  185 
+Generated dialogue sentence is...  did you see movieid
+ Training dialogue sentence is...  did you see movieid
+ -------------------------------- 
+Total similar sentences are  856 
+Generated dialogue sentence is...  how about movieid
+ Training dialogue sentence is...  how about movieid
+ -------------------------------- 
+Total similar sentences are  85 
+Generated dialogue sentence is...  hi  what kind of movies do you like
+ Training dialogue sentence is...  hi what kind of movies do you like
+ -------------------------------- 
+Total similar sentences are  59 
+Generated dialogue sentence is...  movieid is a classic
+ Training dialogue sentence is...  movieid is a classic
+ -------------------------------- 
+Total similar sentences are  1 
+Generated dialogue sentence is...  i have n't seen that one yet  i heard it was good
+ Training dialogue sentence is...  i haven't seen that one yet i heard it was good
+ -------------------------------- 
+Total similar sentences are  3 
+Generated dialogue sentence is...  movieid is a great one too
+ Training dialogue sentence is...  movieid is a great one too
+ -------------------------------- 
+Total similar sentences are  2750 
+Generated dialogue sentence is...  bye
+ Training dialogue sentence is...  bye
+ -------------------------------- 
+Total similar sentences are  174 
+Generated dialogue sentence is...  i have n't seen that one
+ Training dialogue sentence is...  i haven't seen that one
+ -------------------------------- 
+Total similar sentences are  1451 
+Generated dialogue sentence is...  movieid movieid movieid movieid movieid
+ Training dialogue sentence is...  movieid
+ -------------------------------- 
+Total similar sentences are  27 
+Generated dialogue sentence is...  i have n't seen that
+ Training dialogue sentence is...  i haven't seen that
+ -------------------------------- 
+Total similar sentences are  131 
+Generated dialogue sentence is...  what type of movies do you like
+ Training dialogue sentence is...  what type of movies do you like
+ -------------------------------- 
+Total similar sentences are  9 
+Generated dialogue sentence is...  movieid was a good one too
+ Training dialogue sentence is...  movieid was a good one too
+ -------------------------------- 
+Total similar sentences are  100 
+Generated dialogue sentence is...  your welcome
+ Training dialogue sentence is...  your welcome
+ -------------------------------- 
+Total similar sentences are  300 
+Generated dialogue sentence is...  hi  how are you
+ Training dialogue sentence is...  hi how are you
+ -------------------------------- 
+Total similar sentences are  174 
+Generated dialogue sentence is...  i have n't seen that one  i have seen
+ Training dialogue sentence is...  i haven't seen that one
+ -------------------------------- 
+Total similar sentences are  174 
+Generated dialogue sentence is...  i have n't seen that one  i have seen that one
+ Training dialogue sentence is...  i haven't seen that one
+ -------------------------------- 
+Total similar sentences are  2 
+Generated dialogue sentence is...  that is a good one  have you seen movieid
+ Training dialogue sentence is...  have you seen movieid  that is a good one
+ -------------------------------- 
+Total similar sentences are  168 
+Generated dialogue sentence is...  you too bye
+ Training dialogue sentence is...  you too bye
+ -------------------------------- 
+Total similar sentences are  40 
+Generated dialogue sentence is...  you 're welcome bye
+ Training dialogue sentence is...  you're welcome bye
+ -------------------------------- 
+Total similar sentences are  25 
+Generated dialogue sentence is...  you 're welcome  have a great day
+ Training dialogue sentence is...  you're welcome have a great day
+ -------------------------------- 
+Total similar sentences are  12 
+Generated dialogue sentence is...  movieid was really good too
+ Training dialogue sentence is...  movieid was really good too
+ -------------------------------- 
+Total similar sentences are  1 
+Generated dialogue sentence is...  i have n't seen that one yet  i will have to check it out
+ Training dialogue sentence is...  i haven't seen that one yet i will have to check it out
+ -------------------------------- 
+Total similar sentences are  511 
+Generated dialogue sentence is...  have a great day
+ Training dialogue sentence is...  have a great day
+ -------------------------------- 
+Total similar sentences are  16 
+Generated dialogue sentence is...  oh  i have n't seen that one
+ Training dialogue sentence is...  oh haven't seen that one
+ -------------------------------- 
+Total similar sentences are  12 
+Generated dialogue sentence is...  ok  how about movieid or movieid
+ Training dialogue sentence is...  ok how about movieid or movieid
+ -------------------------------- 
+Total similar sentences are  967 
+Generated dialogue sentence is...  or movieid
+ Training dialogue sentence is...  or movieid
+ -------------------------------- 
+Total similar sentences are  3 
+Generated dialogue sentence is...  yes  i have seen that one
+ Training dialogue sentence is...  yes i have seen that one
+ -------------------------------- 
+Total similar sentences are  1 
+Generated dialogue sentence is...  i have n't seen that one yet but i heard it was good
+ Training dialogue sentence is...  i have heard that one was good but haven't seen it yet
+ -------------------------------- 
+Total similar sentences are  19 
+Generated dialogue sentence is...  i also really like movieid
+ Training dialogue sentence is...  i also really like movieid
+ -------------------------------- 
+Total similar sentences are  28 
+Generated dialogue sentence is...  i hope you enjoy it
+ Training dialogue sentence is...  i hope you enjoy it
+ -------------------------------- 
+Total similar sentences are  32 
+Generated dialogue sentence is...  movieid was a good one
+ Training dialogue sentence is...  movieid was a good one
+ -------------------------------- 
+Total similar sentences are  10 
+Generated dialogue sentence is...  no problem  have a great day
+ Training dialogue sentence is...  no problem  have a great day
+ -------------------------------- 
+Total similar sentences are  25 
+Generated dialogue sentence is...  movieid is another great one
+ Training dialogue sentence is...  another great one is movieid
+ -------------------------------- 
+Total similar sentences are  4 
+Generated dialogue sentence is...  hope i helped  have a great day
+ Training dialogue sentence is...  i hope i helped have a great day
+ -------------------------------- 
+Total similar sentences are  5 
+Generated dialogue sentence is...  i think you will enjoy it
+ Training dialogue sentence is...  i think you will enjoy it
+ -------------------------------- 
+Total similar sentences are  40 
+Generated dialogue sentence is...  you 're welcome  bye
+ Training dialogue sentence is...  you're welcome bye
+ -------------------------------- 
+Total similar sentences are  11 
+Generated dialogue sentence is...  it is a classic
+ Training dialogue sentence is...  it is a classic
+ -------------------------------- 
+Total similar sentences are  108 
+Generated dialogue sentence is...  movieid is another good one
+ Training dialogue sentence is...  movieid is another good one
+ -------------------------------- 
+Total similar sentences are  4 
+Generated dialogue sentence is...  i have n't seen that one  i will have to check it out  i have n't seen that one  i will have to check it out
+ Training dialogue sentence is...  i haven't seen that one  i will have to check it out
+ -------------------------------- 
+Total similar sentences are  2 
+Generated dialogue sentence is...  i hope you enjoy it  have a great day
+ Training dialogue sentence is...  hope you enjoy it have a great day
+ -------------------------------- 
+Total similar sentences are  2 
+Generated dialogue sentence is...  i hope you enjoy them  have a great day
+ Training dialogue sentence is...  i hope you enjoy them have a great day
+ -------------------------------- 
+Total similar sentences are  1451 
+Generated dialogue sentence is...  movieid movieid movieid movieid movieid movieid movieid
+ Training dialogue sentence is...  movieid
+ -------------------------------- 
+Total similar sentences are  428 
+Generated dialogue sentence is...  what kind of movies do you like
+ Training dialogue sentence is...  what kind of movies do you like
+ -------------------------------- 
+Total similar sentences are  21 
+Generated dialogue sentence is...  sure  have you seen movieid
+ Training dialogue sentence is...  sure have you seen movieid
+ -------------------------------- 
+Total similar sentences are  12 
+Generated dialogue sentence is...  i like action movies like movieid
+ Training dialogue sentence is...  i like action movies like movieid
+ -------------------------------- 
+Total similar sentences are  2 
+Generated dialogue sentence is...  i hope i helped you out
+ Training dialogue sentence is...  i hope i helped you out
+ -------------------------------- 
+Total similar sentences are  1 
+Generated dialogue sentence is...  i 'm doing well  what kind of movies do you like
+ Training dialogue sentence is...  i'm doing well what kind of movies do you like
+ -------------------------------- 
+Total similar sentences are  12 
+Generated dialogue sentence is...  it is a good one  i have n't seen that one
+ Training dialogue sentence is...  i haven't seen that one is it good
+ -------------------------------- 
+Total similar sentences are  17 
+Generated dialogue sentence is...  you 're welcome  have a good night
+ Training dialogue sentence is...  you're welcome  have a good night
+ -------------------------------- 
+Total similar sentences are  2 
+Generated dialogue sentence is...  i think you 'll like it
+ Training dialogue sentence is...  i think you'll like it
+ -------------------------------- 
+Total similar sentences are  24 
+Generated dialogue sentence is...  you are welcome  bye
+ Training dialogue sentence is...  you are welcome bye
+ -------------------------------- 
+Total similar sentences are  2 
+Generated dialogue sentence is...  i hope you enjoy it  bye
+ Training dialogue sentence is...  hope you enjoy it bye
+ -------------------------------- 
+Total similar sentences are  1 
+Generated dialogue sentence is...  sure  what kind of movies do you like
+ Training dialogue sentence is...  sure what kind of movies do you like
+ -------------------------------- 
+Total similar sentences are  176 
+Generated dialogue sentence is...  i also liked movieid
+ Training dialogue sentence is...  also i liked movieid
+ -------------------------------- 
+Total similar sentences are  5 
+Generated dialogue sentence is...  i think you will like it
+ Training dialogue sentence is...  you will like it i think
+ -------------------------------- 
+Total similar sentences are  6 
+Generated dialogue sentence is...  i hope you enjoy  have a great day
+ Training dialogue sentence is...  hope you enjoy have a great day
+ -------------------------------- 
+Total similar sentences are  13 
+Generated dialogue sentence is...  i have n't seen that one  i 'll have to check it out
+ Training dialogue sentence is...  i haven't seen that one i'll have to check it out
+ -------------------------------- 
+Total similar sentences are  4 
+Generated dialogue sentence is...  it was a good movie
+ Training dialogue sentence is...  was it a good movie
+ -------------------------------- 
+Total similar sentences are  64 
+Generated dialogue sentence is...  movieid was good too
+ Training dialogue sentence is...  movieid was good too
+ -------------------------------- 
+Total similar sentences are  2 
+Generated dialogue sentence is...  it is really good  it is a good movie
+ Training dialogue sentence is...  it is a really good movie
+ -------------------------------- 
+Total similar sentences are  3 
+Generated dialogue sentence is...  it is a good movie
+ Training dialogue sentence is...  it is a good movie
+ -------------------------------- 
+Total similar sentences are  1 
+Generated dialogue sentence is...  it 's a good one  how about movieid
+ Training dialogue sentence is...  it's a good one how about movieid
+ -------------------------------- 
+Total similar sentences are  5 
+Generated dialogue sentence is...  movieid is a good one  have you seen it
+ Training dialogue sentence is...  movieid is a good one have you seen it
+ -------------------------------- 
+Total similar sentences are  4 
+Generated dialogue sentence is...  i have n't seen that one  i will have to check it out  i have n't seen that one  i will have to
+ Training dialogue sentence is...  i haven't seen that one  i will have to check it out
+ -------------------------------- 
+Total similar sentences are  4 
+Generated dialogue sentence is...  i have n't seen that one  i will have to check it out  i have n't seen that one  i will have to check
+ Training dialogue sentence is...  i haven't seen that one  i will have to check it out
+ -------------------------------- 
+Total similar sentences are  9 
+Generated dialogue sentence is...  i am good  thanks for asking
+ Training dialogue sentence is...  i am good thanks for asking
+ -------------------------------- 
+Total similar sentences are  1 
+Generated dialogue sentence is...  i have n't seen that one  i will have to check it out  i have n't seen it yet  i will have to check
+ Training dialogue sentence is...  i haven't seen that one yet i will have to check it out
+ -------------------------------- 
+Total similar sentences are  1 
+Generated dialogue sentence is...  i am doing great  thanks for asking
+ Training dialogue sentence is...  i am doing great thanks for asking
+ -------------------------------- 
+Total similar sentences are  174 
+Generated dialogue sentence is...  i have n't seen that one  i have n't seen that one
+ Training dialogue sentence is...  i haven't seen that one
+ -------------------------------- 
+Total similar sentences are  9 
+Generated dialogue sentence is...  i am good thanks for asking
+ Training dialogue sentence is...  i am good thanks for asking
+ -------------------------------- 
+Total similar sentences are  3 
+Generated dialogue sentence is...  sure  what about movieid
+ Training dialogue sentence is...  sure what about movieid
+ -------------------------------- 
+Total similar sentences are  20 
+Generated dialogue sentence is...  you 're welcome  have a great night
+ Training dialogue sentence is...  you're welcome have a great night :)
+ -------------------------------- 

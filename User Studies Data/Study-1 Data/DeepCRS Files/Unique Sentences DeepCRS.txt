@@ -1,0 +1,139 @@
+0~ have you seen movieid
+Total similar sentences are:101
+--------------------------
+ 1~ have you seen it
+Total similar sentences are:23
+--------------------------
+ 2~ i hope you enjoy them
+Total similar sentences are:9
+--------------------------
+ 3~ you are welcome
+Total similar sentences are:18
+--------------------------
+ 4~ bye
+Total similar sentences are:44
+--------------------------
+ 5~ hello
+Total similar sentences are:50
+--------------------------
+ 6~ what kind of movies do you like
+Total similar sentences are:23
+--------------------------
+ 7~ me too
+Total similar sentences are:10
+--------------------------
+ 8~ i have n't seen that one
+Total similar sentences are:25
+--------------------------
+ 9~ how about movieid
+Total similar sentences are:3
+--------------------------
+ 10~ it 's pretty good
+Total similar sentences are:12
+--------------------------
+ 11~ have you seen any good movies lately
+Total similar sentences are:5
+--------------------------
+ 12~ have you seen movieid yet
+Total similar sentences are:2
+--------------------------
+ 13~ that was a good movie
+Total similar sentences are:2
+--------------------------
+ 14~ hi
+Total similar sentences are:7
+--------------------------
+ 15~ hi there what kind of movies do you like
+Total similar sentences are:1
+--------------------------
+ 16~ you should check it out
+Total similar sentences are:9
+--------------------------
+ 17~ i am good  how are you
+Total similar sentences are:2
+--------------------------
+ 18~ awesome  have a good one
+Total similar sentences are:1
+--------------------------
+ 19~ you are very welcome
+Total similar sentences are:1
+--------------------------
+ 20~ you should watch it
+Total similar sentences are:1
+--------------------------
+ 21~ i hope you like them
+Total similar sentences are:1
+--------------------------
+ 22~ i have n't seen that one yet but i heard it was good
+Total similar sentences are:7
+--------------------------
+ 23~ you 're welcome  have a good one
+Total similar sentences are:4
+--------------------------
+ 24~ have you seen it 's a wonderful life
+Total similar sentences are:1
+--------------------------
+ 25~ have a great day
+Total similar sentences are:1
+--------------------------
+ 26~ hi what kind of movies do you like
+Total similar sentences are:1
+--------------------------
+ 27~ i have n't seen it yet but i heard it was good
+Total similar sentences are:1
+--------------------------
+ 28~ you 're welcome
+Total similar sentences are:3
+--------------------------
+ 29~ i hope you enjoy it
+Total similar sentences are:2
+--------------------------
+ 30~ hello  what kind of movies do you like
+Total similar sentences are:3
+--------------------------
+ 31~ have a good day
+Total similar sentences are:4
+--------------------------
+ 32~ i have n't seen it  but i heard it was good
+Total similar sentences are:4
+--------------------------
+ 33~ i have n't seen that one  but i heard it was good
+Total similar sentences are:1
+--------------------------
+ 34~ i have n't seen that one  i 'll have to check it out
+Total similar sentences are:4
+--------------------------
+ 35~ what about movieid
+Total similar sentences are:1
+--------------------------
+ 36~ hi there
+Total similar sentences are:1
+--------------------------
+ 37~ i have n't seen it but i heard it was good
+Total similar sentences are:1
+--------------------------
+ 38~ you too
+Total similar sentences are:1
+--------------------------
+ 39~ no problem  have a good day
+Total similar sentences are:1
+--------------------------
+ 40~ you 're welcome  have a good day
+Total similar sentences are:1
+--------------------------
+ 41~ it 's about the fcc and being unethical
+Total similar sentences are:3
+--------------------------
+ 42~ that was a good one
+Total similar sentences are:1
+--------------------------
+ 43~ i think you would like it
+Total similar sentences are:1
+--------------------------
+ 44~ i am good
+Total similar sentences are:1
+--------------------------
+ 45~ yes  it is
+Total similar sentences are:1
+--------------------------
+ 
